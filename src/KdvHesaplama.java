@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class KdvHesaplama {
     public static void main(String[] args) {
-        double kdvOrani1 = 0.18 , kdvOrani2 = 0.08 , kdvsizFiyat , kdvliFiyat , kdv = 0 ;
+        double kdvOrani1 = 0.18 , kdvOrani2 = 0.08 , kdvsizFiyat , kdvliFiyat , kdv  ;
 
         Scanner inp = new Scanner(System.in);
 
